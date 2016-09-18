@@ -1,0 +1,10 @@
+(cl:in-package dpralte_060b080-msg)
+(cl:export '(VELOCITY_LEFT-VAL
+          VELOCITY_LEFT
+          VELOCITY_RIGHT-VAL
+          VELOCITY_RIGHT
+          CONFIGURATIONSIGNAL-VAL
+          CONFIGURATIONSIGNAL
+          VELOCITYSIGNAL-VAL
+          VELOCITYSIGNAL
+))

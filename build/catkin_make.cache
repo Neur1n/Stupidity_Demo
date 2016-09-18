@@ -1,0 +1,2 @@
+dpralte060b080:os5000
+-DCATKIN_DEVEL_PREFIX=/home/jihang/Documents/IGV_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jihang/Documents/IGV_ws/install -G Unix Makefiles

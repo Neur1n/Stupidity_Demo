@@ -1,0 +1,2 @@
+set(dpralte060b080_MESSAGE_FILES "msg/DPRALTE060B080_Msg.msg")
+set(dpralte060b080_SERVICE_FILES "")

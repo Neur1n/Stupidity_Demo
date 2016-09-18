@@ -1,0 +1,8 @@
+prefix=/home/jihang/Documents/IGV_ws/install
+
+Name: dpralte_060b080
+Description: Description of dpralte_060b080
+Version: 0.0.1
+Cflags: -I/home/jihang/Documents/IGV_ws/install/include
+Libs: -L/home/jihang/Documents/IGV_ws/install/lib -ldpralte_060b080
+Requires: message_runtime roscpp serial std_msgs

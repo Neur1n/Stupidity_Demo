@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jihang/Documents/IGV_ws/src/dpralte_060b080/include/dpralte_060b080/DPRALTE060B080.h
+serial/serial.h
+-
+
+/home/jihang/Documents/IGV_ws/src/dpralte_060b080/src/DPRALTE060B080.cpp
+iostream
+-
+dpralte_060b080/DPRALTE060B080.h
+/home/jihang/Documents/IGV_ws/src/dpralte_060b080/src/dpralte_060b080/DPRALTE060B080.h
+
+/opt/ros/indigo/include/serial/serial.h
+limits
+-
+vector
+-
+string
+-
+cstring
+-
+sstream
+-
+exception
+-
+stdexcept
+-
+serial/v8stdint.h
+-
+
+/opt/ros/indigo/include/serial/v8stdint.h
+stddef.h
+-
+stdio.h
+-
+stdint.h
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/jihang/Documents/IGV_ws/install
+
+Name: os5000
+Description: Description of os5000
+Version: 0.0.1
+Cflags: -I/home/jihang/Documents/IGV_ws/install/include
+Libs: -L/home/jihang/Documents/IGV_ws/install/lib -los5000
+Requires: dynamic_reconfigure roscpp sensor_msgs serial tf
